@@ -1,0 +1,17 @@
+                                   Rob And Anna Online Store
+******************************************************************************************
+Men Top(s)
+
+Item Name                            Price                         Size
+Blue Supreme Sweatshirt                                $100                      L
+
+Total Men Tops Price : $100
+******************************************************************************************
+Accessories(s)
+
+Item Name                            Price                         Sizing
+GUESS Floral Decor Beaded Bracelet      $$.15
+
+Total Accessories Price: $15
+******************************************************************************************
+Total Price:  $115
